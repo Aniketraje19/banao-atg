@@ -1,0 +1,48 @@
+
+
+
+.bg-light-gray{
+    background-color: #F2F2F2;
+}
+
+.text-royal-blue{
+    color: #2F6CE5;
+}
+
+.bg-royal-blue{
+    background-color: #2F6CE5;
+}
+.outline-none{
+    outline: none;
+}
+
+.custom-search{
+    width: 310px;
+    border-top-right-radius: 21px;
+    border-bottom-right-radius: 21px;
+}
+
+.custom-search-btn{
+    width: 50px;
+    border-top-left-radius: 21px;
+    border-bottom-left-radius: 21px;
+}
+
+
+.hero{
+    width: 100%;
+    height: 440px;
+}
+
+.nav .nav-link{
+    color: #8A8A8A;
+}
+
+.custom-tab-btn{
+    width: 133px;
+    height: 36px;
+}
+
+.dropdown-toggle::after {
+    display: none !important; /* Hide the arrow */
+}

@@ -1,0 +1,35 @@
+.custom-modal .modal-dialog {
+    max-width: 80%; /* Set a custom max width */
+    width: 800px; /* Set a specific width */
+  }
+  
+  .custom-modal .modal-content {
+    height: 500px; /* Set a custom height */
+    background-color: white; /* Custom background color */
+    border-radius: 15px; /* Custom border radius */
+  }
+  
+  .custom-modal .modal-header {
+    background-color:#EFFFF4; /* Custom header background */
+    color: #008A45; /* Header text color */
+    font-size: 14px;
+    display: flex;
+    justify-content: center; /* Center align the content horizontally */
+    align-items: center; 
+}
+
+.custom-modal .modal-title {
+    font-size: 14px !important;
+    text-align: center !important;
+  }
+
+  .custom-modal .modal-body {
+    font-size: 16px; /* Custom font size */
+  }
+  
+
+.custom-modal input{
+    background-color: #F7F8FA;
+    border: 1px solid #dddede;
+    height: 46px;
+}
